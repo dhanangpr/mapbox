@@ -4,7 +4,7 @@ import MapboxGL from '@react-native-mapbox-gl/maps';
 import RNPickerSelect from 'react-native-picker-select';
 
 const mapboxAccessToken =
-  'pk.eyJ1IjoiZGF2aWR3aW5hbGRhIiwiYSI6ImNraWg1dHhsZDEzMTgyd3F3YTBnN2J4NWoifQ.UxGrdErOGNdkBwUmIKOZbg';
+  'pk.eyJ1IjoiZGhhbmFuZyIsImEiOiJja2lpdG51ZWowb3d4MnpwODNkbGhsOXVlIn0.iksg-gTU8QAfPHs5opoADw';
 MapboxGL.setAccessToken(mapboxAccessToken);
 
 const App = () => {
